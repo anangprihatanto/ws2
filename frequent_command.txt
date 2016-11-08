@@ -1,0 +1,8 @@
+List of git command frequently used by attendees:
+Anang Prihatanto
+1. git status
+2. git commit
+3. git add
+4. git stash
+5. git checkout
+6. git reset
